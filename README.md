@@ -11,6 +11,7 @@ Link: https://developer.microsoft.com/power-platform
 
 
 Como configurar a Power Platform (passo a passo)
+
 ✅ Opção 1: Conta já existente do Microsoft 365
 Acesse https://make.powerapps.com
 
