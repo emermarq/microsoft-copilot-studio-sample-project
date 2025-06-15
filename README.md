@@ -56,3 +56,10 @@ Dê um nome, escolha região, tipo (produção, desenvolvedor, sandbox).
 Escolha se quer ativar o Dataverse (opcional, mas útil).
 
 Após criado, você poderá usá-lo em https://make.powerapps.com trocando no canto superior direito.
+
+
+O Microsoft Copilot Studio está disponível no formato de app web e também integrado ao Microsoft Teams. Aqui estão os links diretos para acesso:
+
+🌐 App Web
+Acesse a ferramenta completa de criação de agentes personalizados aqui:
+→ https://copilotstudio.microsoft.com
